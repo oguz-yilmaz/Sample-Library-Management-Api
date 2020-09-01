@@ -9,3 +9,5 @@ Here we install `sequelize` globally, you could also install it locally and use 
 - `sequelize db:migrate`
 - `sequelize-cli db:seed:all`
 - `npm start`
+
+Codecommit
