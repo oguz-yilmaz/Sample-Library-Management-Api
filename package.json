@@ -16,7 +16,7 @@
     "express-validator": "^6.6.0",
     "faker": "^4.1.0",
     "mysql2": "^2.1.0",
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.20",
     "sequelize": "^6.3.3"
   }
 }
